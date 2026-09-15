@@ -1,6 +1,6 @@
 Simple project for study makefiles
 =====================
-
+Практика 1 тест 
 Примеры для обучения использованию make-файлов
 
 _example-1_
